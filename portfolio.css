@@ -6,7 +6,7 @@
 }
 body
 {
-  background-color: rgb(0, 191, 255);
+  background-color: beige;
   color:black;
 }
 .header
@@ -16,7 +16,7 @@ body
   left:0;
   width:200%;
   padding: 20px 60%;
-  background:#88de87;
+  background:rgb(169, 149, 112);
   display:flex;
   flex-wrap: wrap;
   justify-content: space-between;
@@ -34,7 +34,7 @@ body
 }
 .navbar a.active
 {
-    color: blue;
+    color: rgb(1, 1, 6);
 }
 
 .home
@@ -58,7 +58,7 @@ body
 .home-content h3{
     font-size: 32px;
     font-weight: 700;
-    Color:rgb(7, 7, 90);
+    Color:rgb(20, 20, 113);
 }
 .home-content p
 {
